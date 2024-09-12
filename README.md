@@ -27,4 +27,4 @@ python Caterpillar.py
 <img src="https://github.com/ndleah/python-mini-project/blob/main/IMG/caterpillar.gif" width=70% height=70%>
 
 ## 🤖 Author
-[Leah Nguyen](https://github.com/ndleah)
+[Shruti Mondal]
